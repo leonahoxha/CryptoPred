@@ -13,6 +13,9 @@ format:
     code-fold: true       
     number-sections: true  
     toc: true
+    execute:
+      warning: false
+      message: false
 highlight-style: github  
 ---
 
