@@ -1,11 +1,16 @@
 ---
 title: "Cryptocurrency Price Analysis"
+author: 
+  - "Blessing Sekeramavi"
+  - "Leona Hasani"
+  - "Leona Hoxha"
+  - "Nanmanat Disayakamonpan"
 format:
   html:
     code-fold: true
 ---
 
-# Cryptocurrency Price Analysis
+# Introduction
 
 In this notebook, we explore the historical price trends, volatility, and correlations of various cryptocurrencies. The goal is to identify patterns, analyze financial characteristics, and predict future prices using ARIMA modeling.
 
