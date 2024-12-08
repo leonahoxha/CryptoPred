@@ -21,7 +21,7 @@ highlight-style: github
 
 # Introduction
 
-In this notebook, we explore the historical price trends, volatility, and correlations of various cryptocurrencies. The goal is to identify patterns, analyze financial characteristics, and predict future prices using ARIMA modeling.
+In this notebook, we explore the historical price trends, volatility, and correlations of various cryptocurrencies. The goal of this project is to identify patterns, analyze financial characteristics, and predict future prices using ARIMA modeling.
 
 ```{python}
 #| label: importing libraries
